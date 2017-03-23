@@ -1,0 +1,243 @@
+# -*- mode: org -*-
+#+TITLE: 韓非子
+#+DATE: 2016-08-02 20:08:31
+#+PROPERTY: ID KR3c0005
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 24
+#+PROPERTY: CAT 1pre-han,哲學思想,法家
+
+# src: HF 25.01:01; jishi 4i3; jiaozhu 274; shiping i42
+# dating: 8110
+<pb:KR3c0005_tls_025-1a>¶
+** 25 安危第二十五
+
+安術有七，¶
+危道有六。<pb:KR3c0005_tls_025-2a>¶
+
+# src: HF 25.01:02; jishi 4i3; jiaozhu 274; shiping i42
+# dating: 8110
+安術：¶
+一曰
+賞罰隨是非，¶
+二曰
+禍福隨善惡，¶
+三曰
+死生隨法度，¶
+四曰
+有賢不肖而無愛惡，¶
+
+# src: HF 25.01:03; jishi 4i3; jiaozhu 274; shiping i42
+# dating: 8110
+五曰
+有愚智而無非譽，¶
+六曰
+有尺寸而無意度，¶
+七曰
+有信而無詐。<pb:KR3c0005_tls_025-3a>¶
+
+# src: HF 25.01:04; jishi 4i3; jiaozhu 274; shiping i42
+# dating: 8110
+危道：¶
+一曰
+斲削於繩之內，¶
+二曰
+斷割於法之外，¶
+三曰
+利人之所害，¶
+四曰
+樂人之所禍，¶
+
+# src: HF 25.01:05; jishi 4i3; jiaozhu 274; shiping i42
+# dating: 8110
+五曰
+危人於所安，¶
+六曰
+所愛不親，¶
+所惡不䟽。¶
+
+# src: HF 25.01:06; jishi 4i3; jiaozhu 274; shiping i42
+# dating: 8110
+如此，¶
+則人失其所以樂生，¶
+而忘其所以重死。¶
+人不樂生
+則人主不尊，¶
+不重死
+則令不行也。<pb:KR3c0005_tls_025-4a>¶
+
+# src: HF 25.02:01; jishi 4i3; jiaozhu 276; shiping i43
+# dating: 8110
+使天下皆極智能於儀表，¶
+盡力於權衡，¶
+以動則勝，¶
+以靜則安。¶
+治世使人樂生於為是，¶
+愛身於為非，¶
+小人少而君子多。¶
+
+# src: HF 25.02:02; jishi 4i3; jiaozhu 276; shiping i43
+# dating: 8110
+故社稷長立，¶
+國家久安。¶
+奔車之上無仲尼，¶
+覆舟之下無伯夷。¶
+故號令者，¶
+國之舟車也。¶
+安則智廉生，¶
+危則爭鄙起。¶
+
+# src: HF 25.02:03; jishi 4i3; jiaozhu 276; shiping i43
+# dating: 8110
+故安國之法，¶
+若饑而食，¶
+寒而衣，¶
+不令而自然也。¶
+
+# src: HF 25.02:04; jishi 4i3; jiaozhu 276; shiping i43
+# dating: 8110
+先王寄理於竹帛，¶
+其道順，¶
+故後世服。¶
+今使人去饑寒，¶
+雖賁、育不能行；¶
+廢自然，¶
+雖順道而不立。¶
+
+# src: HF 25.02:05; jishi 4i3; jiaozhu 276; shiping i43
+# dating: 8110
+強勇之所不能行，¶
+則上不能安。¶
+上以無厭責已盡，¶
+則下對「無有」，¶
+無有
+則輕法。¶
+法所以為國也，¶
+而輕之，¶
+則功不立，¶
+名不成。<pb:KR3c0005_tls_025-5a>¶
+
+# src: HF 25.03:01; jishi 4i4; jiaozhu; 278; shiping i44
+# dating: 8110
+聞古扁鵲之治其病也，¶
+以刀刺骨；¶
+聖人之救危國也，¶
+以忠拂耳。¶
+刺骨，¶
+故小痛在體
+而長利在身；¶
+拂耳，¶
+故小逆在心
+而久福在國。¶
+
+# src: HF 25.03:02; jishi 4i4; jiaozhu; 278; shiping i44
+# dating: 8110
+故甚病之人
+利在忍痛，¶
+猛毅之君
+以福拂耳。¶
+忍痛，¶
+故扁鵲盡巧；¶
+拂耳，¶
+則子胥不失。¶
+壽安之術也。¶
+
+# src: HF 25.03:03; jishi 4i4; jiaozhu; 278; shiping i44
+# dating: 8110
+病而不忍痛，¶
+則失扁鵲之巧；¶
+危而不拂耳，¶
+則失聖人之意。¶
+如此，¶
+長利不遠垂，¶
+功名不久立。<pb:KR3c0005_tls_025-6a>¶
+
+# src: HF 25.04:01; jishi 4i4; jiaozhu 278f; shiping i47
+# dating: 8110
+人主不自刻以堯，¶
+而責人臣以子胥，¶
+是幸殷人之盡如比干。¶
+盡如比干，¶
+則上不失，¶
+下不亡。¶
+
+# src: HF 25.04:02; jishi 4i4; jiaozhu 278f; shiping i47
+# dating: 8110
+不權其力
+而有田成，¶
+而幸其身盡如比干，¶
+故國不得一安。¶
+
+# src: HF 25.04:03; jishi 4i4; jiaozhu 278f; shiping i47
+# dating: 8110
+廢堯、舜而立桀、紂，¶
+則人不得樂所長
+而憂所短。¶
+失所長，¶
+則國家無功；¶
+守所短，¶
+則民不樂生。¶
+
+# src: HF 25.04:04; jishi 4i4; jiaozhu 278f; shiping i47
+# dating: 8110
+以無功御不樂生，，¶
+不可行於齊民。
+如此，¶
+則上無以使下，¶
+下無以事上。<pb:KR3c0005_tls_025-7a>¶
+
+# src: HF 25.05:01; jishi 4i4; jiaoshi i11; jiaozhu 279; shiping i49
+# dating: 8110
+安危在是非，¶
+不在於強弱；¶
+存亡在虛實，¶
+不在於眾寡。¶
+
+# src: HF 25.05:02; jishi 4i4; jiaoshi i11; jiaozhu 279; shiping i49
+# dating: 8110
+故齊
+萬乘也，¶
+而名實不稱，¶
+上空虛於國，¶
+內不充滿於名實，¶
+故臣得奪主。¶
+
+# src: HF 25.05:03; jishi 4i4; jiaoshi i11; jiaozhu 279; shiping i49
+# dating: 8110
+桀，天子也，¶
+而無是非：¶
+賞於無功，¶
+使讒諛以詐偽為貴；¶
+誅於無罪，¶
+使傴以天性剖背。¶
+以詐偽為是，¶
+天性為非，¶
+小得勝大。<pb:KR3c0005_tls_025-8a>¶
+
+# src: HF 25.06:01; jishi 4i4; jiaoshi i12; jiaozhu 280; shiping i49
+# dating: 8110
+明主堅內，¶
+故不外失，¶
+失之近
+而不亡於遠者無有。¶
+故周之奪殷也，¶
+拾遺於庭。¶
+使殷不遺於朝，¶
+則周不敢望秋毫於境，¶
+而況敢易位乎？<pb:KR3c0005_tls_025-9a>¶
+
+# src: HF 25.07:01; jishi 485; jiaoshi i12; jishi 485; shiping 851
+# dating: 8110
+明主之道忠法，¶
+其法忠心，¶
+故臨之而治，
+去之而思。¶
+
+# src: HF 25.07:02; jishi 485; jiaoshi i12; jishi 485; shiping 851
+# dating: 8110
+堯無膠漆之約於當世
+而道行，¶
+舜無置錐之地於後世
+而德結。¶
+能立道於往古，¶
+而垂德於萬世者之謂明主。
+
